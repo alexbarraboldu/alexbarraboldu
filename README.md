@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-C#
+# C#
+### Design Patterns
 
-# Design Patterns
-## C++
+# C++
 ### Sorting Algorithms
 
 - [Bubble Sort](https://github.com/alexbarraboldu/BubbleSort)
