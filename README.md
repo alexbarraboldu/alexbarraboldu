@@ -3,10 +3,8 @@
 C#
 
 Design Patterns
-- 
-
-C++
 -
+## C++
 ### Sorting Algorithms
 
 - [Bubble Sort](https://github.com/alexbarraboldu/BubbleSort)
