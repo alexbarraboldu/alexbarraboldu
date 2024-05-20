@@ -2,8 +2,7 @@
 
 C#
 
-Design Patterns
--
+# Design Patterns
 ## C++
 ### Sorting Algorithms
 
