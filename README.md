@@ -1,16 +1,17 @@
-# Hello visitor!
-
+![banner](https://user-images.githubusercontent.com/42088872/95290058-f13b9180-089e-11eb-94e3-a44a5a1172c3.jpg)
 ## My latest [CV](https://github.com/alexbarraboldu/CV)
 
-## C#
+<details>
+<summary>
+##C
+</summary>
 #### Design Patterns
 - [Adapter]()
 - [Behvaiour Tree]()
 - [Event Bus]()
 - [Observer]()
 - [State Machine]()
-
-<br></br>
+</details>
 
 ## C++
 #### Sorting Algorithms
