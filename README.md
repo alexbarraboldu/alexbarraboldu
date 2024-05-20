@@ -2,15 +2,20 @@
 ## My latest [CV](https://github.com/alexbarraboldu/CV)
 
 <details>
+  
 <summary>
+  
 ##C
+
 </summary>
+  
 #### Design Patterns
 - [Adapter]()
 - [Behvaiour Tree]()
 - [Event Bus]()
 - [Observer]()
 - [State Machine]()
+  
 </details>
 
 ## C++
