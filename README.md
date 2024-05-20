@@ -1,10 +1,17 @@
-# Hi there 👋
+# Hello visitor!
 
-## [My CV](https://github.com/alexbarraboldu/CV)
-<br></br>
+## My latest [CV](https://github.com/alexbarraboldu/CV)
+
 ## C#
 #### Design Patterns
+- [Adapter]()
+- [Behvaiour Tree]()
+- [Event Bus]()
+- [Observer]()
+- [State Machine]()
+
 <br></br>
+
 ## C++
 #### Sorting Algorithms
 - [Bubble Sort](https://github.com/alexbarraboldu/BubbleSort)
