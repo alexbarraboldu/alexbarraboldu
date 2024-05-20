@@ -1,5 +1,6 @@
 # Hi there 👋
 
+## [My CV](https://github.com/alexbarraboldu/CV)
 <br></br>
 ## C#
 #### Design Patterns
