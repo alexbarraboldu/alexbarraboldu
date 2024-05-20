@@ -7,6 +7,6 @@ Design Patterns
 
 C++
 -
-Sorting Algorithms
+### Sorting Algorithms
 
 - [Bubble Sort](https://github.com/alexbarraboldu/BubbleSort)
