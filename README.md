@@ -1,4 +1,4 @@
-![banner](https://drive.google.com/file/d/1ZgX4U1Os9s77iWA-tX0fpJ1mb1tcJETd/view?usp=drive_link)
+![banner](https://github.com/alexbarraboldu/alexbarraboldu/blob/main/Assets/1500x500_not-original.jpg)
 ## My latest [CV](https://github.com/alexbarraboldu/CV)
 
 ## C#
