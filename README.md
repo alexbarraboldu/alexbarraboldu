@@ -1,6 +1,6 @@
 ![banner](https://github.com/alexbarraboldu/alexbarraboldu/blob/main/Assets/1500x500_not-original.jpg)
 ## My latest [CV](https://github.com/alexbarraboldu/CV)
-<table width="1000"><tr><td valign="top" width="1000">
+<table width="100%"><tr><td valign="top" width="1000">
 
 ## C#
 
@@ -11,7 +11,7 @@
 - [Observer]()
 - [State Machine]()
 
-</td><td valign="top">
+</td><td valign="top" width="1000">
   
 ## C/C++
 
