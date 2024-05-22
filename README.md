@@ -10,8 +10,9 @@
 - [Event Bus]()
 - [Observer]()
 - [State Machine]()
+---
 </td><td valign="top" width="50%">
-
+  
 ## C/C++
 
 #### Sorting Algorithms
