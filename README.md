@@ -1,6 +1,6 @@
 ![banner](https://github.com/alexbarraboldu/alexbarraboldu/blob/main/Assets/1500x500_not-original.jpg)
 ## My latest [CV](https://github.com/alexbarraboldu/CV)
-<table width="100%"><tr align="center"><td valign="top" width="50%">
+<table width="100%"><tr width="100%"><td valign="top" width="50%">
 
 ## C#
 
