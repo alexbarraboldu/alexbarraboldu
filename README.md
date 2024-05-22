@@ -1,7 +1,6 @@
 ![banner](https://github.com/alexbarraboldu/alexbarraboldu/blob/main/Assets/1500x500_not-original.jpg)
 ## My latest [CV](https://github.com/alexbarraboldu/CV)
-<table width="100%"><tr align="center"><td valign="top" width="50%">
-
+<table width="100%"><tr align="center"><td valign="top" width="50%"><a>
 ## C#
 
 #### Design Patterns
@@ -10,7 +9,7 @@
 - [Event Bus]()
 - [Observer]()
 - [State Machine]()
-</td><td valign="top" width="50%">
+</a></td><td valign="top" width="50%">
 
 ## C/C++
 
