@@ -4,7 +4,7 @@
 
 ## C#
 
-#### Design Patterns [(Demos.)](https://github.com/alexbarraboldu/DesignPatterns_Unity/tree/main)
+#### Design Patterns [(Demos)](https://github.com/alexbarraboldu/DesignPatterns_Unity/tree/main)
 - [Adapter](https://github.com/alexbarraboldu/DesignPatterns_Unity/tree/adapter)
 - [Behvaiour Tree](https://github.com/alexbarraboldu/DesignPatterns_Unity/tree/behaviourTree)
 - [Event Bus](https://github.com/alexbarraboldu/DesignPatterns_Unity/tree/eventBus)
