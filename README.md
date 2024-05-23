@@ -4,12 +4,12 @@
 
 ## C#
 
-#### Design Patterns
-- [Adapter]()
-- [Behvaiour Tree]()
-- [Event Bus]()
-- [Observer]()
-- [State Machine]()
+#### [Design Patterns](https://github.com/alexbarraboldu/DesignPatterns_Unity/tree/main)
+- [Adapter](https://github.com/alexbarraboldu/DesignPatterns_Unity/tree/adapter)
+- [Behvaiour Tree](https://github.com/alexbarraboldu/DesignPatterns_Unity/tree/behaviourTree)
+- [Event Bus](https://github.com/alexbarraboldu/DesignPatterns_Unity/tree/eventBus)
+- [Observer](https://github.com/alexbarraboldu/DesignPatterns_Unity/tree/observer)
+- [State Machine](https://github.com/alexbarraboldu/DesignPatterns_Unity/tree/stateMachine)
 
 </td><td valign="top" width="10000">
   
