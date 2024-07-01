@@ -2,6 +2,17 @@
 ## My latest [CV](https://github.com/alexbarraboldu/CV)
 <table width="100%"><tr><td valign="top" width="10000">
 
+## Unity
+
+#### Design Patterns [(Demos)](https://github.com/alexbarraboldu/DesignPatterns_Unity/tree/main)
+- [To Remember The Deads](https://github.com/alexbarraboldu/)
+- [PAWNY](https://github.com/alexbarraboldu/)
+- [Rover-Two (JAM)](https://github.com/alexbarraboldu/)
+- [Beyond The Light (JAM)](https://github.com/alexbarraboldu/)
+- [Soul Purge](https://github.com/alexbarraboldu/)
+
+</td><td valign="top" width="10000">
+ 
 ## C#
 
 #### Design Patterns [(Demos)](https://github.com/alexbarraboldu/DesignPatterns_Unity/tree/main)
@@ -28,16 +39,5 @@
 - [FStream WriteRead txt & bit](https://github.com/alexbarraboldu/FStream_WriteRead-TXT_BIT)
 - [Matrix to Array](https://github.com/alexbarraboldu/MatrixToArray)
 - [Insert and Add Matrices](https://github.com/alexbarraboldu/InsertAndAddMatrices)
-
-</td><td valign="top" width="10000">
-
-## Unity
-
-#### Design Patterns [(Demos)](https://github.com/alexbarraboldu/DesignPatterns_Unity/tree/main)
-- [Adapter](https://github.com/alexbarraboldu/DesignPatterns_Unity/tree/adapter)
-- [Behvaiour Tree](https://github.com/alexbarraboldu/DesignPatterns_Unity/tree/behaviourTree)
-- [Event Bus](https://github.com/alexbarraboldu/DesignPatterns_Unity/tree/eventBus)
-- [Observer](https://github.com/alexbarraboldu/DesignPatterns_Unity/tree/observer)
-- [State Machine](https://github.com/alexbarraboldu/DesignPatterns_Unity/tree/stateMachine)
 
 </td></tr></table>
