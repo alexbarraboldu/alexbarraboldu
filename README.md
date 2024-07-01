@@ -4,7 +4,7 @@
 
 ## Unity
 
-#### Design Patterns [(Demos)](https://github.com/alexbarraboldu/DesignPatterns_Unity/tree/main)
+#### Video Games 
 - [To Remember The Deads](https://github.com/alexbarraboldu/)
 - [PAWNY](https://github.com/alexbarraboldu/)
 - [Rover-Two (JAM)](https://github.com/alexbarraboldu/)
